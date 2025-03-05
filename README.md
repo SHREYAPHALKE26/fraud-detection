@@ -101,6 +101,6 @@ json
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
-Dataset: Credit Card Fraud Detection Dataset
-Libraries: Scikit-learn, XGBoost, TensorFlow, Flask
+- Dataset: Credit Card Fraud Detection Dataset
+- Libraries: Scikit-learn, XGBoost, TensorFlow, Flask
 
